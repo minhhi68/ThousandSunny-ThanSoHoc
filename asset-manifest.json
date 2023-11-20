@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ThousandSunny-ThanSoHoc/static/css/main.c4584e1a.css",
+    "main.js": "/ThousandSunny-ThanSoHoc/static/js/main.b6c24e40.js",
+    "static/js/787.7ac80f56.chunk.js": "/ThousandSunny-ThanSoHoc/static/js/787.7ac80f56.chunk.js",
+    "static/media/background_image.png": "/ThousandSunny-ThanSoHoc/static/media/background_image.f784673f3d4479036e1d.png",
+    "static/media/39632-1.png": "/ThousandSunny-ThanSoHoc/static/media/39632-1.846443bb9c276a66a736.png",
+    "static/media/logo.png": "/ThousandSunny-ThanSoHoc/static/media/logo.17f3b1e0d053ec90eba9.png",
+    "index.html": "/ThousandSunny-ThanSoHoc/index.html",
+    "main.c4584e1a.css.map": "/ThousandSunny-ThanSoHoc/static/css/main.c4584e1a.css.map",
+    "main.b6c24e40.js.map": "/ThousandSunny-ThanSoHoc/static/js/main.b6c24e40.js.map",
+    "787.7ac80f56.chunk.js.map": "/ThousandSunny-ThanSoHoc/static/js/787.7ac80f56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4584e1a.css",
+    "static/js/main.b6c24e40.js"
+  ]
+}
